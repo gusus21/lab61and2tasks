@@ -1,0 +1,10 @@
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\bin\Debug\peopleupdown.exe.config
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\bin\Debug\peopleupdown.exe
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\bin\Debug\peopleupdown.pdb
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\obj\Debug\peopleupdown.csproj.AssemblyReference.cache
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\obj\Debug\peopleupdown.Form1.resources
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\obj\Debug\peopleupdown.Properties.Resources.resources
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\obj\Debug\peopleupdown.csproj.GenerateResource.cache
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\obj\Debug\peopleupdown.csproj.CoreCompileInputs.cache
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\obj\Debug\peopleupdown.exe
+C:\Users\пельмень\source\repos\peopleupdown\peopleupdown\obj\Debug\peopleupdown.pdb
